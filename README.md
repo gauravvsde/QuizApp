@@ -1,5 +1,5 @@
 # QuizApp
-**A Quiz app for checking knowledge of flags of different countries. Once you completed the quiz you will get your score as well.**
+**A Quiz app for checking flags knowledge of different countries. Once you completed the quiz you will get your score as well.**
 ## 1->
 <img src="images/first.jpg" width="250"></br> 
 ## 2-> 
